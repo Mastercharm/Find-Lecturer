@@ -1,5 +1,5 @@
 # Find-Lecturer
-https://www.findlecturer.000webhostapp.com/
+https://findlecturer.000webhostapp.com/
 Find Lecturer is a platform to find your desired Lecturer with one click.
 Normally, In many colleges there will be workshops,seminars,motivational classes. To guide and teach such aspects we need a Lecturer. The one who organize those events need to search Guest Lecturer for rental to teach the students.
 
