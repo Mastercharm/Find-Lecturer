@@ -1,0 +1,61 @@
+.lab
+{
+     
+    padding-top: 8px;
+    color:  #fff;
+    
+}
+.dropbtn {
+ 
+  border-radius: 50%;
+  
+  
+  cursor: pointer;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding-top: 5px;    
+   padding-right: 20px; 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #000;
+   
+  min-width:10px;
+  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+  border-radius:5px;
+     
+}
+
+.dropdown-content a {
+  color: black;
+  padding:12px 10px;
+  text-decoration: none;
+  display: block;
+    
+}
+.b
+{
+    background: transparent;
+    border: none;
+    color:#fff;
+}
+.dropbtn, .dropbtn:focus {
+  margin-left: 15px;
+  border: 1px solid #be9e21;
+  color: #be9e21;
+}
+
+
+.dropdown .b:hover {background-color: #fff;}
+
+.show {display: block;}
+
+
+
+
